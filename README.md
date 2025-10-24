@@ -33,7 +33,7 @@ Desafio focado em criar um fluxo contínuo de chamadas de API, desde a criação
     ```
 
 3.  **Execute o script:**
-    (Substitua `resolucao_parte1.js` pelo nome exato do seu arquivo, se for diferente)
+    (Substitua `desafio_api.js` pelo nome exato do seu arquivo, se for diferente)
     ```bash
     node desafio_api.js
     ```
